@@ -1,0 +1,22 @@
+body{
+    background-color: black;
+    color:aliceblue;
+}
+#camera{
+    border-width: 20px;
+    border-style:dashed;
+    width: 500px;
+    height: 300px;
+}
+.heading{
+    width:50%;
+}
+.name_of_objects,#result_name,#result_accuracy{
+ color:cyan;
+}
+#result{
+    border-width: 20px;
+    border-style:dashed;
+    width: 500px;
+    height: 300px;
+}
